@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    overflow: hidden;
+}
+
+#ar-button-container{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+#text-container{
+    font-size: 30px;
+    position: absolute;
+    bottom: 160px;
+    width: 100%;
+    text-align: center;
+    color:white;
+    font-family: monospace;
+}
+
+#location{
+    font-size: 30px;
+    position: absolute;
+    bottom:80px;
+    width: 100%;
+    text-align: center;
+    color: yellow;
+}
+
+#welcome{
+    font-size: 30px;
+    position: absolute;
+    top:20px;
+    width: 100%;
+    text-align: center;
+    color: yellow;
+    font-family: monospace;
+}
